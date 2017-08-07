@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Peas - 1 bag",
+        "price": 0.95,
+        "image": "https://unsplash.com/search/peas?photo=XlA2994Txhw",
+        "category": "Frozen foods"
+    },
+    {
+        "id": 2,
+        "name": "Eggs - 1 Dozen",
+        "price": 2.10,
+        "image": "https://unsplash.com/search/eggs?photo=XktEKmetbzc",
+        "category": "Poultry"
+    },
+    {
+        "id": 3,
+        "name": "Milk - 1 bottle",
+        "price": 1.30,
+        "image": "https://unsplash.com/search/photos/milk?photo=byhv-AqoMtI",
+        "category": "Dairy"
+    },
+    {
+        "id": 4,
+        "name": "Beans - 1 Can",
+        "price": 0.73,
+        "image": "http://www.istockphoto.com/gb/photo/baked-beans-gm149069817-12926229",
+        "category": "Canned goods"
+    }
+]

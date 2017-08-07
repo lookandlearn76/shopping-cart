@@ -1,0 +1,65 @@
+
+
+* {
+  text-align: center;
+  font-size: 1.06em;
+}
+
+body {
+  background-image: url(../images/veggies-screenshot.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: bottom;
+}
+
+.btn-primary {
+  margin: 2px;
+}
+
+
+h1 {
+  margin-top: -20px;
+}
+
+li {
+  list-style-type: none;
+
+}
+.jumbotron {
+  opacity:  0.92;
+  background-color: rgba(2010000);
+  border: 5px solid green;
+}
+
+.jumbotron ul {
+  margin-top: 0px;
+  border: 1px solid lightblue;
+  width: 100%
+  //margin-left: auto;
+  //margin-right: auto;
+  background-color: green;
+  padding: 1%;
+}
+
+.jumbotron li {
+  width: 100%;
+  margin:right;
+  background-color: white;
+}
+
+#show-cart {
+  background-color: green;
+}
+
+.entry-count {
+  width: 50px;
+  border: 3px solid green;
+}
+
+.subtract-single-item, .add-single-item, .delete-all-item {
+  border: 3px solid green;
+  border-radius: 10%;
+  background-color: white;
+  margin: 1px;
+}
